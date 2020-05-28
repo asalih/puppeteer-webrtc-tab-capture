@@ -1,2 +1,3 @@
-# puppeteer-webrtc-tab-capture
-Puppeteer WebRTC Tab Capture Example
+# Puppeteer WebRTC Tab Capture Example
+
+![Diagram](images/helloworld.gif)
